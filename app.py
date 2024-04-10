@@ -75,7 +75,7 @@ with st.container():
     with text_column:
         st.subheader("Portfolio Website Using Python")
         st.write("""I have designed a python programme to create a portfolio Website with the help of Streamlit.""")
-        st.markdown("[Learn More...](https://github.com/suganeswar03/python_project/tree/17379599f2b12223912ba0d0c3d2c5c3cbe4b320)")
+        st.markdown("[Learn More...](https://github.com/suganeswar03/Portfolio_Website.git)")
 
 #project3
 with st.container():
