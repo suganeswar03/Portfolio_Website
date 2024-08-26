@@ -32,7 +32,7 @@ with st.container():
     st.write("Masters Graduate @ Pace University | AWS Certified Developer – Associate.")
     st.write("Gmail: suganeswar2000@gmail.com")
     st.write("Mobile: +91 9942645560")
-    st.write("[Linkedin >]https://www.linkedin.com/in/suganeswar-savadamuthu-069097153?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BEZpGNIRpR8eJDX38%2F2cEtQ%3D%3D")
+    st.write("[Linkedin >]linkedin.com/in/suganeswar-savadamuthu-069097153")
 
 
 #what i do
