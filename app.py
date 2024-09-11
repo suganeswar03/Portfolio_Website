@@ -28,10 +28,10 @@ Pictured = Image.open("images/Pictured.png")
 #header section
 with st.container():
     st.subheader("Hi, Iam Suganeswar Savadamuthu :wave:")
-    st.title("Software Developer")
+    st.title("Data Engineer")
     st.write("Masters Graduate @ Pace University,Newyork.")
     st.write("Gmail: suganeswar2000@gmail.com")
-    st.write("Mobile: +91 9942645560")
+    st.write("Mobile: +1 (980)382-2749")
     st.write("[Linkedin >]https://www.linkedin.com/in/suganeswar-savadamuthu-069097153")
 
 
@@ -43,7 +43,7 @@ with st.container():
         st.header("What I Do")
         st.write("##")
         st.write(
-            """A Software Engineer with 0.8 years of experience in Data pipeline development with proven ability 
+            """A Software Engineer with 1+ years of experience in Data pipeline development with proven ability 
 to understand customer requirements and translate into actionable project plans. Strong Python 
 coding with good Hands-on experience and extensive experience working in agile environment."""
         )
