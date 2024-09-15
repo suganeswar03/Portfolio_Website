@@ -43,7 +43,7 @@ with st.container():
         st.header("What I Do")
         st.write("##")
         st.write(
-            """A Software Engineer with 1+ years of experience in Data pipeline development with proven ability 
+            """Data Engineer with 1+ years of experience in Data pipeline development with proven ability 
 to understand customer requirements and translate into actionable project plans. Strong Python 
 coding with good Hands-on experience and extensive experience working in agile environment."""
         )
