@@ -93,7 +93,7 @@ of cloud security risks and liabilities for corporations. """)
 
 
 
-#contact reach form
+#contact form
 
     with st.container():
         st.write("---")
