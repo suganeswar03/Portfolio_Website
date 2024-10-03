@@ -28,7 +28,7 @@ Pictured = Image.open("images/Pictured.png")
 #header section
 with st.container():
     st.subheader("Hi, Iam Suganeswar Savadamuthu :wave:")
-    st.title("Data Engineer")
+    st.title("Software Developer")
     st.write("Masters Graduate @ Pace University,Newyork.")
     st.write("Gmail: suganeswar2000@gmail.com")
     st.write("Mobile: +1 (980)382-2749")
@@ -43,9 +43,7 @@ with st.container():
         st.header("What I Do")
         st.write("##")
         st.write(
-            """Data Engineer with 1+ years of experience in Data pipeline development with proven ability 
-to understand customer requirements and translate into actionable project plans. Strong Python 
-coding with good Hands-on experience and extensive experience working in agile environment."""
+            """A proactive Software Developer Intern with experience in feature enhancement, RESTful API development, and bug resolution, resulting in improved system functionality and stability. Skilled in agile methodologies, version control, and scalable code development. Seeking opportunities to contribute to innovative teams and deliver high-quality software solutions."""
         )
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
