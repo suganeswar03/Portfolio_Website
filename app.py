@@ -28,10 +28,10 @@ Pictured = Image.open("images/Pictured.png")
 #header section
 with st.container():
     st.subheader("Hi, Iam Suganeswar Savadamuthu :wave:")
-    st.title("Software Developer")
+    st.title("Cybersecurity Engineer")
     st.write("Masters Graduate @ Pace University,Newyork.")
     st.write("Gmail: suganeswar2000@gmail.com")
-    st.write("Mobile: +1 (980)382-2749")
+    st.write("Mobile: +91 9942645560")
     st.write("[Linkedin >]https://www.linkedin.com/in/suganeswar-savadamuthu-069097153")
 
 
@@ -43,7 +43,7 @@ with st.container():
         st.header("What I Do")
         st.write("##")
         st.write(
-            """A proactive Software Developer Intern with experience in feature enhancement, RESTful API development, and bug resolution, resulting in improved system functionality and stability. Skilled in agile methodologies, version control, and scalable code development. Seeking opportunities to contribute to innovative teams and deliver high-quality software solutions."""
+            """Cybersecurity professional with 1 year of experience in security best practices, vulnerability assessments, and incident response. Skilled in automation scripting, security monitoring, and risk mitigation, with hands-on expertise in SIEM, EDR, penetration testing, and cloud security. Proficient in Python programming with practical experience in developing security solutions. Adept at securing infrastructure, enforcing security policies, and integrating security controls. Experienced in agile environments, ensuring efficient and adaptive security implementations."""
         )
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
@@ -59,7 +59,7 @@ with st.container():
         st.image(Pictureb)
 
     with text_column:
-        st.subheader("Email Security Service")
+        st.subheader("Autonomous Security Monitoring & Incident Response")
         st.write("""I have designed a python programme that will trigger an email, if a new service starts running on 
         the host. I have used psutil and smtp packages for this programme.""")
         st.markdown("[Learn More...](https://github.com/suganeswar03/python_project/tree/17379599f2b12223912ba0d0c3d2c5c3cbe4b320)")
@@ -82,7 +82,7 @@ with st.container():
         st.image(Pictured)
 
     with text_column:
-        st.subheader("Cloud Security Metrics: A Comprehensive Analysis of Privileged Access Monitoring and Configuration Security Score.")
+        st.subheader("Cloud Security Metrics & Risk Analysis.")
         st.write(""" I have focused on two specific metrics that would contribute significantly to the 
 evaluation of cloud security for corporations: Privileged Access Monitoring and Configuration 
 Security Score. This research paper deals with these metrics to contribute to the understanding 
