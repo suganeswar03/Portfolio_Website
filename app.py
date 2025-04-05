@@ -29,7 +29,7 @@ Pictured = Image.open("images/Pictured.png")
 with st.container():
     st.subheader("Hi, Iam Suganeswar Savadamuthu :wave:")
     st.title("Cybersecurity Engineer")
-    st.write("Masters Graduate @ Pace University.")
+    st.write("Masters Graduate @ Pace University,Newyork.")
     st.write("Gmail: suganeswar2000@gmail.com")
     st.write("Mobile: +91 9942645560")
     st.write("[Linkedin >]https://www.linkedin.com/in/suganeswar-savadamuthu-069097153")
