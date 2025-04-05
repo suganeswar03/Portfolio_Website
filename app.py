@@ -46,7 +46,7 @@ with st.container():
             """ Cybersecurity professional with 1 year of experience in security best practices, vulnerability assessments, and incident response. Skilled in automation scripting, security monitoring, and risk mitigation, with hands-on expertise in SIEM, EDR, penetration testing, and cloud security. Proficient in Python programming with practical experience in developing security solutions. Adept at securing infrastructure, enforcing security policies, and integrating security controls. Experienced in agile environments, ensuring efficient and adaptive security implementations"""
         )
     with right_column:
-        st_lottie(lottie_coding, height=300, key="coding")
+        st_lottie(lottie_coding, height=300, key="lottie_coding_1")
 
 #Work Experience
 with st.container():
@@ -68,7 +68,7 @@ with st.container():
                •Assisted in setting up security monitoring dashboards to visualize threats and security incidents."""
         )
     with right_column:
-        st_lottie(lottie_coding, height=300, key="coding")
+        st_lottie(lottie_coding2, height=300, key="lottie_coding_2")
 #projects
 with st.container():
     st.write("---")
