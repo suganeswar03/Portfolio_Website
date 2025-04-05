@@ -48,7 +48,27 @@ with st.container():
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
 
-
+#Work Experience
+with st.container():
+    st.write("---")
+    left_column, right_column = st.columns(2)
+    with left_column:
+        st.header("Work Experience")
+        st.subheader("Cybersecurity Engineer - Intern")
+        st.write("##")
+        st.write(
+            """•Assisted in implementing security best practices by automating security policies and monitoring compliance.
+               •Developed security automation scripts in Python to detect and respond to threats, improving response time by 40%.
+               •Conducted vulnerability assessments and penetration testing, identifying and mitigating security risks.
+               •Monitored network traffic and system logs using SIEM tools (Splunk, QRadar) to detect suspicious activities.
+               •Engaged in incident response efforts by analyzing security breaches, implementing fixes, and documenting lessons learned.
+               •Assisted in security patching and managing updates to protect systems against known vulnerabilities.
+               •Collaborated with cross-functional teams to enforce security compliance with frameworks such as ISO 27001 and SOC 2.
+               •Researched emerging security threats and provided recommendations to improve defense mechanisms.
+               •Assisted in setting up security monitoring dashboards to visualize threats and security incidents."""
+        )
+    with right_column:
+        st_lottie(lottie_coding, height=300, key="coding")
 #projects
 with st.container():
     st.write("---")
