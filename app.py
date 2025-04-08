@@ -51,7 +51,7 @@ with st.container():
 with st.container():
     st.write("---")
     st.header("Work Experience")
-    st.subheader("Cybersecurity Engineer - Intern (June 2024 - April 2025)")
+    st.subheader("**Cybersecurity Engineer - Intern** | **humanID** | **New York, USA**  \n**June 2024 – April 2025**")
     st.write(
         """
         - Assisted in implementing security best practices by automating security policies and monitoring compliance.  
