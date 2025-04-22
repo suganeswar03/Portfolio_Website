@@ -28,7 +28,7 @@ Pictured = Image.open("images/Pictured.png")
 #header section
 with st.container():
     st.subheader("Hi, Iam Suganeswar Savadamuthu :wave:")
-    st.title("Cybersecurity Engineer")
+    st.title("Software Engineer")
     st.write("Masters Graduate @ Pace University,Newyork.")
     st.write("Gmail: suganeswar2000@gmail.com")
     st.write("Mobile: +91 9342090431")
@@ -43,7 +43,7 @@ with st.container():
         st.header("What I Do")
         st.write("##")
         st.write(
-            """ Cybersecurity professional with 1 year of experience in security best practices, vulnerability assessments, and incident response. Skilled in automation scripting, security monitoring, and risk mitigation, with hands-on expertise in SIEM, EDR, penetration testing, and cloud security. Proficient in Python programming with practical experience in developing security solutions. Adept at securing infrastructure, enforcing security policies, and integrating security controls. Experienced in agile environments, ensuring efficient and adaptive security implementations"""
+            """ A Software Engineer with 1 year of experience in Data pipeline development with proven ability to understand      customer requirements and translate into actionable project plans. Strong Python coding with good Hands-on experience and extensive experience working in agile environment."""
         )
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
@@ -51,18 +51,19 @@ with st.container():
 with st.container():
     st.write("---")
     st.header("Work Experience")
-    st.subheader("**Cybersecurity Engineer - Intern** | **humanID** | **New York, USA**  \n**June 2024 – April 2025**")
+    st.subheader("**Software Engineer - Intern** | **humanID** | **New York, USA**  \n**June 2024 – April 2025**")
     st.write(
         """
-        - Assisted in implementing security best practices by automating security policies and monitoring compliance.  
-        - Developed security automation scripts in Python to detect and respond to threats, improving response time by 40%.  
-        - Conducted vulnerability assessments and penetration testing, identifying and mitigating security risks.  
-        - Monitored network traffic and system logs using SIEM tools (Splunk, QRadar) to detect suspicious activities.  
-        - Engaged in incident response efforts by analyzing security breaches, implementing fixes, and documenting lessons learned.  
-        - Assisted in security patching and managing updates to protect systems against known vulnerabilities.  
-        - Collaborated with cross-functional teams to enforce security compliance with frameworks such as ISO 27001 and SOC 2.  
-        - Researched emerging security threats and provided recommendations to improve defense mechanisms.  
-        - Assisted in setting up security monitoring dashboards to visualize threats and security incidents.  
+        •	Designed, developed, and debugged mission-critical software in an agile Scrum environment, improving functionality by 20% through feature enhancements.
+        •	Developed and integrated high-performance RESTful APIs, optimizing data retrieval and reduced latency.
+        •	Implemented sensor data processing pipelines to enable real-time analytics and autonomous decision-making.
+        •	Ensured software reliability and scalability by conducting peer reviews, reducing production issues by 30%.
+        •	Worked with Linux-based environments, troubleshooting and resolving issues to enhance system stability by 15%.
+        •	Used GitHub for version control, improving collaboration and accelerating development cycles by 25%.
+        •	Developed reusable object-oriented programming (OOP) components, reducing future development time.
+        •	Participated in continuous integration (CI/CD) pipelines using Jenkins, ensuring automated deployments with a 50% reduction in downtime.
+    •	Engaged in simulation testing to verify system functionality, contributing to a 100% alignment with software verification processes
+  
         """
     )
 
@@ -76,8 +77,7 @@ with st.container():
 
     with text_column:
         st.subheader("Autonomous Security Monitoring & Incident Response.")
-        st.write("""I have designed a python programme that will trigger an email, if a new service starts running on 
-        the host. I have used psutil and smtp packages for this programme.""")
+        st.write("""I developed a real-time monitoring service for Linux systems to detect and log new background processes. To enhance security, I added automated email alerts for unauthorized service initiations, reducing manual monitoring by 80%. Using multi-threaded processing, I achieved 100% success in anomaly detection and built a lightweight API to integrate alerts with external monitoring tools for improved compliance.""")
         st.markdown("[Learn More...](https://github.com/suganeswar03/python_project/tree/17379599f2b12223912ba0d0c3d2c5c3cbe4b320)")
 
 #project2
