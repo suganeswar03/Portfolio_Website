@@ -53,18 +53,15 @@ with st.container():
     st.header("Work Experience")
     st.subheader("**Software Engineer - Intern** | **humanID** | **New York, USA**  \n**June 2024 – April 2025**")
     st.write(
-        """
-        •	Designed, developed, and debugged mission-critical software in an agile Scrum environment, improving functionality by 20% through feature enhancements.
-        •	Developed and integrated high-performance RESTful APIs, optimizing data retrieval and reduced latency.
-        •	Implemented sensor data processing pipelines to enable real-time analytics and autonomous decision-making.
-        •	Ensured software reliability and scalability by conducting peer reviews, reducing production issues by 30%.
-        •	Worked with Linux-based environments, troubleshooting and resolving issues to enhance system stability by 15%.
-        •	Used GitHub for version control, improving collaboration and accelerating development cycles by 25%.
-        •	Developed reusable object-oriented programming (OOP) components, reducing future development time.
-        •	Participated in continuous integration (CI/CD) pipelines using Jenkins, ensuring automated deployments with a 50% reduction in downtime.
-    •	Engaged in simulation testing to verify system functionality, contributing to a 100% alignment with software verification processes
-  
-        """
+        """•	Designed, developed, and debugged mission-critical software in an agile Scrum environment, improving functionality by 20% through feature enhancements.
+           •	Developed and integrated high-performance RESTful APIs, optimizing data retrieval and reduced latency.
+           •	Implemented sensor data processing pipelines to enable real-time analytics and autonomous decision-making.
+           •	Ensured software reliability and scalability by conducting peer reviews, reducing production issues by 30%.
+           •	Worked with Linux-based environments, troubleshooting and resolving issues to enhance system stability by 15%.
+           •	Used GitHub for version control, improving collaboration and accelerating development cycles by 25%.
+           •	Developed reusable object-oriented programming (OOP) components, reducing future development time.
+           •	Participated in continuous integration (CI/CD) pipelines using Jenkins, ensuring automated deployments with a 50% reduction in downtime.
+           •	Engaged in simulation testing to verify system functionality, contributing to a 100% alignment with software verification processes"""
     )
 
 with st.container():
