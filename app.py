@@ -28,7 +28,7 @@ Pictured = Image.open("images/Pictured.png")
 #header section
 with st.container():
     st.subheader("Hi, Iam Suganeswar Savadamuthu :wave:")
-    st.title("Software Engineer")
+    st.title("Data Engineer")
     st.write("Masters Graduate @ Pace University,Newyork.")
     st.write("Gmail: suganeswar2000@gmail.com")
     st.write("Mobile: +91 9342090431")
@@ -43,7 +43,7 @@ with st.container():
         st.header("What I Do")
         st.write("##")
         st.write(
-            """ A Software Engineer with 1 year of experience in Data pipeline development with proven ability to understand      customer requirements and translate into actionable project plans. Strong Python coding with good Hands-on experience and extensive experience working in agile environment."""
+            """ Data Engineer with 1 year of experience in Data pipeline development with proven ability to understand      customer requirements and translate into actionable project plans. Strong Python coding with good Hands-on experience and extensive experience working in agile environment."""
         )
     with right_column:
         st_lottie(lottie_coding, height=300, key="coding")
@@ -51,7 +51,7 @@ with st.container():
 with st.container():
     st.write("---")
     st.header("Work Experience")
-    st.subheader("**Software Engineer - Intern** | **humanID** | **New York, USA**  \n**June 2024 – April 2025**")
+    st.subheader("**Data Engineer - Intern** | **humanID** | **New York, USA**  \n**June 2024 – April 2025**")
     st.write(
         """•	Designed, developed, and debugged mission-critical software in an agile Scrum environment, improving functionality by 20% through feature enhancements.
            •	Developed and integrated high-performance RESTful APIs, optimizing data retrieval and reduced latency.
